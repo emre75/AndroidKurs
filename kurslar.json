@@ -1,0 +1,5 @@
+﻿{"kurslar":[
+    { "kursAdi":"Android ile Mobil Programlama", "saatSayisi":"192","kontenjan":"16" },
+    { "kursAdi":"Web Uygulamaları Geliştirme", "saatSayisi":"160","kontenjan":"16"  },
+    { "kursAdi":"iOS ile Mobil Programlama", "saatSayisi":"160","kontenjan":"16" }
+]}
